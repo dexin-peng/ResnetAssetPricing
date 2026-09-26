@@ -1,0 +1,16 @@
+# Allow only the files used by Docker COPY instructions.
+**
+!Dockerfile
+!entrypoint.sh
+!requirements/
+!requirements/common.txt
+!requirements/data.txt
+!requirements/torch.txt
+!requirements/constraints.txt
+!install-python-stack/
+!install-python-stack/lib.sh
+!install-python-stack/00-bootstrap.sh
+!install-python-stack/10-common-packages.sh
+!install-python-stack/20-data-packages.sh
+!install-python-stack/30-pytorch-wheels.sh
+!install-python-stack/90-finalize.sh

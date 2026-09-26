@@ -1,0 +1,2 @@
+# Native Windows terminal support; Linux / WSL and macOS use stdlib curses.
+windows-curses==2.4.1

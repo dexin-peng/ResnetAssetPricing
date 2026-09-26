@@ -1,0 +1,8 @@
+pip==25.1.1
+setuptools==70.2.0; sys_platform != "darwin"
+setuptools==84.0.0; sys_platform == "darwin"
+jupyterlab==4.4.4
+ipykernel==6.29.5
+nbformat==5.10.4
+nbclient==0.10.2
+nbconvert==7.16.6

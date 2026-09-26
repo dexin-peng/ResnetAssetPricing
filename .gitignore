@@ -1,0 +1,75 @@
+# Public inputs; all other source data stay local.
+/source_data/*
+!/source_data/PredictorData2024.xlsx
+!/source_data/F-F_Research_Data_5_Factors_2x3.csv
+!/source_data/Factor Details.xlsx
+!/source_data/cluster_labels.csv
+!/source_data/Company94Characteristics.csv
+
+# Experiment outputs and large data files
+/asset/
+/ResnetAssetPricing_pretrained_checkpoints.zip
+/tmp/
+/build/
+/runs/
+/logs/
+*.pkl
+*.pkl.gz
+*.pickle
+*.pickle.gz
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npy.gz
+*.npz
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.sas7bdat
+*.sas7bdat.gz
+*.tfevents*
+
+# Local analysis inputs, caches and rendered exports
+/utils/paper_source/local_inputs/
+/utils/paper_source/results/
+/utils/paper_source/data/*
+# Keep only small, reusable predictor/design definitions.
+!/utils/paper_source/data/predictor_list.csv
+!/utils/paper_source/data/predictor_themes.csv
+!/utils/paper_source/data/design_comparison.json
+/utils/paper_source/**/*.html
+/utils/paper_source/**/*.pdf
+/utils/paper_source/**/*.png
+/utils/paper_source/**/*.svg
+
+# Environments, credentials and temporary files
+.venv/
+venv/
+env/
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.log
+.nfs*
+._*
+.rsync-partial/
+*.partial

@@ -1,0 +1,2 @@
+# Install this stage from https://download.pytorch.org/whl/cu128.
+torch==2.7.1+cu128

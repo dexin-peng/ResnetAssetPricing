@@ -1,0 +1,162 @@
+order,acronym,description,block,source,frequency
+1,niq_su,Standardized earnings surprise,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+2,ret_6_1,Price momentum t-6 to t-1,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+3,ret_12_1,Price momentum t-12 to t-1,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+4,saleq_su,Standardized revenue surprise,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+5,tax_gr1a,Tax expense surprise,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+6,ni_inc8q,Number of consecutive quarters with earnings increases,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+7,prc_highprc_252d,Current price to high price over last year,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+8,resff3_6_1,Residual momentum t-6 to t-1,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+9,resff3_12_1,Residual momentum t-12 to t-1,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+10,be_me,Book-to-market equity,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+11,debt_me,Debt-to-market,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+12,at_me,Assets-to-market,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+13,ret_60_12,Long-term reversal,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+14,ni_me,Earnings-to-price,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+15,fcf_me,Free cash flow-to-price,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+16,div12m_me,Dividend yield,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+17,eqpo_me,Payout yield,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+18,eqnpo_me,Net payout yield,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+19,sale_gr3,Sales growth (3 years),Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+20,sale_gr1,Sales growth (1 year),Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+21,ebitda_mev,EBITDA-to-market enterprise value,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+22,sale_me,Sales-to-market,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+23,ocf_me,Operating cash flow-to-market,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+24,ival_me,Intrinsic value-to-market,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+25,bev_mev,Book-to-market enterprise value,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+26,netdebt_me,Net debt-to-price,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+27,eq_dur,Equity duration,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+28,capex_abn,Abnormal corporate investment,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+29,at_gr1,Asset growth,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+30,ppeinv_gr1a,Change PPE and inventory,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+31,noa_at,Net operating assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+32,noa_gr1a,Change in net operating assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+33,lnoa_gr1a,Change in long-term net operating assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+34,capx_gr1,CAPEX growth (1 year),Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+35,capx_gr2,CAPEX growth (2 years),Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+36,capx_gr3,CAPEX growth (3 years),Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+37,chcsho_12m,Net stock issues,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+38,eqnpo_12m,Equity net payout,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+39,debt_gr3,Growth in book debt (3 years),Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+40,inv_gr1,Inventory growth,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+41,inv_gr1a,Inventory change,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+42,oaccruals_at,Operating accruals,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+43,taccruals_at,Total accruals,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+44,cowc_gr1a,Change in current operating working capital,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+45,coa_gr1a,Change in current operating assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+46,col_gr1a,Change in current operating liabilities,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+47,nncoa_gr1a,Change in net noncurrent operating assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+48,ncoa_gr1a,Change in noncurrent operating assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+49,ncol_gr1a,Change in noncurrent operating liabilities,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+50,nfna_gr1a,Change in net financial assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+51,sti_gr1a,Change in short-term investments,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+52,lti_gr1a,Change in long-term investments,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+53,fnl_gr1a,Change in financial liabilities,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+54,be_gr1a,Change in common equity,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+55,oaccruals_ni,Percent operating accruals,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+56,taccruals_ni,Percent total accruals,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+57,netis_at,Net total issuance,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+58,eqnetis_at,Net equity issuance,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+59,dbnetis_at,Net debt issuance,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+60,niq_be,Quarterly return on equity,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+61,niq_be_chg1,Change in quarterly return on equity,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+62,niq_at,Quarterly return on assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+63,niq_at_chg1,Change in quarterly return on assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+64,ebit_bev,Return on net operating assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+65,ebit_sale,Profit margin,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+66,sale_bev,Asset turnover,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+67,at_turnover,Capital turnover,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+68,gp_at,Gross profits-to-assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+69,gp_atl1,Gross profits-to-lagged assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+70,ope_be,Operating profits-to-book equity,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+71,ope_bel1,Operating profits-to-lagged book equity,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+72,op_at,Operating profits-to-book assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+73,op_atl1,Operating profits-to-lagged book assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+74,cop_at,Cash-based operating profits-to-book assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+75,cop_atl1,Cash-based operating profits-to-lagged book assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+76,f_score,Piotroski F-score,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+77,o_score,Ohlson O-score,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+78,z_score,Altman Z-score,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+79,pi_nix,Taxable income-to-book income,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+80,at_be,Book leverage,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+81,saleq_gr1,Sales growth (1 quarter),Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+82,rd_me,R&D-to-market,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+83,rd_sale,R&D-to-sales,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+84,opex_at,Operating leverage,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+85,emp_gr1,Hiring rate,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+86,rd5_at,R&D capital-to-book assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+87,age,Firm age,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+88,dsale_dinv,Change sales minus change inventory,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+89,dsale_drec,Change sales minus change receivables,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+90,dgp_dsale,Change gross margin minus change sales,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+91,dsale_dsga,Change sales minus change SG&A,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+92,sale_emp_gr1,Labor force efficiency,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+93,tangibility,Asset tangibility,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+94,kz_index,Kaplan-Zingales index,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+95,ocfq_saleq_std,Cash flow volatility,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+96,cash_at,Cash-to-assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+97,ni_ar1,Earnings persistence,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+98,ni_ivol,Earnings volatility,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+99,earnings_variability,Earnings variability,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+100,aliq_at,Liquidity of book assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+101,aliq_mat,Liquidity of market assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+102,seas_1_1an,"Year 1-lagged return, annual",Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+103,seas_1_1na,"Year 1-lagged return, nonannual",Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+104,seas_2_5an,"Years 2-5 lagged returns, annual",Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+105,seas_2_5na,"Years 2-5 lagged returns, nonannual",Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+106,seas_6_10an,"Years 6-10 lagged returns, annual",Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+107,seas_6_10na,"Years 6-10 lagged returns, nonannual",Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+108,seas_11_15an,"Years 11-15 lagged returns, annual",Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+109,seas_11_15na,"Years 11-15 lagged returns, nonannual",Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+110,seas_16_20an,"Years 16-20 lagged returns, annual",Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+111,seas_16_20na,"Years 16-20 lagged returns, nonannual",Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+112,market_equity,Market equity,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+113,ivol_ff3_21d,Idiosyncratic volatility from the Fama-French 3-factor model,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+114,ivol_capm_252d,Idiosyncratic volatility from the CAPM (252 days),Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+115,ivol_capm_21d,Idiosyncratic volatility from the CAPM (21 days),Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+116,ivol_hxz4_21d,Idiosyncratic volatility from the q-factor model,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+117,rvol_21d,Return volatility,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+118,beta_60m,Market beta,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+119,betabab_1260d,Frazzini-Pedersen market beta,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+120,beta_dimson_21d,Dimson beta,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+121,turnover_126d,Share turnover,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+122,turnover_var_126d,Coefficient of variation for share turnover,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+123,dolvol_126d,Dollar trading volume,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+124,dolvol_var_126d,Coefficient of variation for dollar trading volume,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+125,prc,Price per share,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+126,ami_126d,Amihud Measure,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+127,zero_trades_21d,Number of zero trades with turnover as tiebreaker (1 month),Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+128,zero_trades_126d,Number of zero trades with turnover as tiebreaker (6 months),Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+129,zero_trades_252d,Number of zero trades with turnover as tiebreaker (12 months),Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+130,rmax1_21d,Maximum daily return,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+131,rskew_21d,Total skewness,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+132,iskew_capm_21d,Idiosyncratic skewness from the CAPM,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+133,iskew_ff3_21d,Idiosyncratic skewness from the Fama-French 3-factor model,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+134,iskew_hxz4_21d,Idiosyncratic skewness from the q-factor model,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+135,coskew_21d,Coskewness,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+136,ret_1_0,Short-term reversal,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+137,betadown_252d,Downside beta,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+138,bidaskhl_21d,The high-low bid-ask spread,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+139,ret_3_1,Price momentum t-3 to t-1,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+140,ret_9_1,Price momentum t-9 to t-1,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+141,ret_12_7,Price momentum t-12 to t-7,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+142,corr_1260d,Market correlation,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+143,rmax5_21d,Highest 5 days of return,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+144,rmax5_rvol_21d,Highest 5 days of return scaled by volatility,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+145,ni_be,Return on equity,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+146,ocf_at,Operating cash flow to assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+147,ocf_at_chg1,Change in operating cash flow to assets,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+148,mispricing_perf,Mispricing factor: Performance,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+149,mispricing_mgmt,Mispricing factor: Management,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+150,qmj,Quality minus Junk: Composite,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+151,qmj_prof,Quality minus Junk: Profitability,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+152,qmj_growth,Quality minus Junk: Growth,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+153,qmj_safety,Quality minus Junk: Safety,Firm characteristic,JKP stock-characteristic panel,Monthly aligned
+154,d/p,Dividend-price ratio,Macro predictor,Goyal-Welch monthly data,Monthly
+155,e/p,Earnings-price ratio,Macro predictor,Goyal-Welch monthly data,Monthly
+156,b/m,Book-to-market ratio,Macro predictor,Goyal-Welch monthly data,Monthly
+157,ntis,Net equity expansion,Macro predictor,Goyal-Welch monthly data,Monthly
+158,tbl,Treasury-bill rate,Macro predictor,Goyal-Welch monthly data,Monthly
+159,tms,Term spread,Macro predictor,Goyal-Welch monthly data,Monthly
+160,dfy,Default spread,Macro predictor,Goyal-Welch monthly data,Monthly
+161,svar,Stock variance,Macro predictor,Goyal-Welch monthly data,Monthly
